@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hello, I'm The Kiet 👋
 
-<!--
-**The-Kiet/The-Kiet** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+I'm a beginner coder exploring the world of programming with Python. I have a passion for learning and building projects that solve real-world problems. I'm excited to share my journey and connect with others in the coding community!
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on small Python projects to improve my skills.
+- 🌱 I’m learning about data structures, algorithms, and web development with Python.
+- 👯 I’m looking to collaborate on beginner-friendly projects or learn from experienced developers.
+- 💬 Ask me about Python basics, coding challenges, or resources for new coders.
+- 📫 How to reach me: tngo3361@hwdsb.on.ca
+- ⚡ Fun fact: I love gaming.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Languages:** Python
+- **Tools:** Git, GitHub.
+
